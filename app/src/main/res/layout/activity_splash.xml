@@ -33,7 +33,7 @@
         android:paddingLeft="80sp"
         android:paddingTop="7sp"
         android:text="MemeShare !"
-        android:textColor="#EA3F09"
+        android:textColor="#2B2B2B"
         android:textSize="30sp" />
 
     <TextView
